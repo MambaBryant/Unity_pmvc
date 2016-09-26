@@ -12,7 +12,7 @@ bin-release/
 /obj/*
 /*.userprefs/*
 /*.csproj/*
-
+/newscrpit/*
 
 # Executables
 *.swf
