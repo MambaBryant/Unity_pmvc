@@ -10,9 +10,10 @@ bin-release/
 
 /Library/*
 /obj/*
+/newscrpit/*
 /*.userprefs/*
 /*.csproj/*
-/newscrpit/*
+
 
 # Executables
 *.swf
